@@ -32,3 +32,18 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+### Notes
+
+> To utlize some of the LSPs ( Language Server Protocol ) for linting, formatting, and etc. Please be sure to install the language(s) on your local machine.
+>
+> To install extra plugins, visit [https://github.com/AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) and add them to the `lua/community.lua` file.
+>
+> Formatter is turned off. To turn on, go to the `lua/plugins/astrolsp.lua` file. Formatting variable is on line 18
+>
+> ## Bonus tools to install via command line
+>
+> - [lazygit](https://github.com/jesseduffield/lazygit)
+> - [fzf](https://github.com/junegunn/fzf)
+
+  
