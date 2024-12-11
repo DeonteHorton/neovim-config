@@ -6,6 +6,8 @@ A template for getting started with [AstroNvim](https://github.com/AstroNvim/Ast
 
 ## 🛠️ Installation
 
+Install [neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
+
 #### Make a backup of your current nvim and shared folder
 
 ```shell
