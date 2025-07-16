@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.colorscheme.vscode-nvim" },
 
   -- import/override with your plugins folder
 }
